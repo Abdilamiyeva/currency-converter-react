@@ -1,0 +1,27 @@
+.currency__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+.currency__right__content{
+  padding: 10px;
+}
+
+.select__right__context{
+    gap: 20px;
+}
+.converted__amount__in{
+    margin-top: 20px;
+}
+.converted__amount__in input{
+    outline: none;
+    /* padding: 10px 20px; */
+    background: none;
+    width: 330px;
+    border: none;
+    /* border-radius: 10px; */
+    /* border: 2px solid rgba(128, 128, 128, 0.183); */
+    color: white;
+    font-size: 24px;
+}
